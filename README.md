@@ -1,2 +1,2 @@
 # Capstone_project_2
-This folder contains all the codes and documents related to the 2nd Capstone project for Springboard Carreer . In this project a multivariate time series model was developed using Keras with tensorflow as the backend.
+This folder contains all the codes and documents related to the 2nd Capstone project for Springboard Career Track course. In this project a multivariate time series model was developed using Keras with tensorflow as the backend.
